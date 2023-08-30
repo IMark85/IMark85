@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeoti oluwatofunmi
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning java and android development
+- 🌱 I’m currently learning C# and game development using unity game engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tofunmiadeoti@gmail.com
 
